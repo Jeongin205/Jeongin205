@@ -1,4 +1,4 @@
-### 개발노동자들 안녕 👋
+###안녕하세요 👋
 [![알파카's github stats](https://github-readme-stats.vercel.app/api?username=Jeongin205&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
