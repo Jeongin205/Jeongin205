@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20JI%20GitHub&fontSize=60)
 <h3 align="center">👋안녕하세요 안드로이드 개발자 이정인입니다👋</h3>
+<p align="center">룽삥뽕룽삥뽕 수정중...</p>
 
 <h3 align="center">💻 Tech 💻</h3>
 <div align="center">
