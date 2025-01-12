@@ -3,6 +3,17 @@
 <p align="center">다양한 것을 경험하며 발전해나가는 안드로이드 개발자입니다.</p>
 
 <br>
+<h3 align="center">🙌 Activities 🙌</h3>
+<div align="center">
+  <p>선린인터넷고등학교 소프트웨어과</p>
+  <p>선린인터넷고등학교 앱 개발 전문 동아리 애플 파이 부원 (2021~2023)</p>
+  <p>선린인터넷고등학교 기능 연구 개발 소속 (2021~2022)</p>
+  <p>2022 한국 글로벌숙련기술진흥원수료</p>
+  <p>교육부 주관 창업 300 성장 트랙 선정 (2023 , 2024)</p>
+</div>
+
+
+<br>
 <h3 align="center">🏆 Achievements 🏆</h3>
 <div align="center">
   <h4>2021</h4>
@@ -36,5 +47,7 @@
 <br>
 <h3 align="center">📈 Stats 📉</h3>
 <div align="center" style="text-align:center">
+  
   [![JI's github stats](https://github-readme-stats.vercel.app/api?username=Jeongin205&theme=react&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
