@@ -47,7 +47,6 @@
 <br>
 <h3 align="center">📈 Stats 📉</h3>
 <div align="center" style="text-align:center">
-  
-  [![JI's github stats](https://github-readme-stats.vercel.app/api?username=Jeongin205&theme=react&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![JI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongin205)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
