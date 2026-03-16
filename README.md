@@ -30,11 +30,10 @@
 <br>
 <h3 align="center">💻 Tech 💻</h3>
 <div align="center">
-  <h4>Main</h4>
+  <h4>Available</h4>
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/androidstudio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white">
-  
-  <h4>Available</h4>
+  <br>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
