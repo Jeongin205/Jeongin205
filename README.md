@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20JI%20GitHub&fontSize=60)
-<h3 align="center">👋안녕하세요 안드로이드 개발자 이정인입니다👋</h3>
-<p align="center">다양한 것을 경험하며 발전해나가는 안드로이드 개발자입니다.</p>
+<h3 align="center">👋안녕하세요 개발자 이정인입니다👋</h3>
+<p align="center">다양한 것을 경험하며 발전해나가는 개발자입니다.</p>
 
 <br>
 <h3 align="center">🙌 Activities 🙌</h3>
@@ -45,8 +45,8 @@
 </div>
 
 <br>
-<h3 align="center">📈 Stats 📉</h3>
+<!-- <h3 align="center">📈 Stats 📉</h3>
 <div align="center" style="text-align:center">
   [![JI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeongin205)](https://github.com/anuraghazra/github-readme-stats)
   
-</div>
+</div> -->
